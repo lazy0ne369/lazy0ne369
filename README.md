@@ -1,7 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:1A3E6E&height=160&text=Sohan%20Kumar%20Sahu&fontSize=48&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0a0f1e&height=180&text=Sohan+Kumar+Sahu&fontSize=52&fontColor=61DAFB&fontAlignY=45&desc=AI%2FML%20%C2%B7%20Full%20Stack%20%C2%B7%20Builder&descAlignY=68&descSize=16&descFontColor=8b9cb8&animation=fadeIn" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=me+%2B+%E2%98%95+%3D+code;Build+things+that+matter+%E2%80%94+the+problem+is+the+point.;Still+learning.+Always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=curiosity+%2B+coffee+%3D+code;Build+things+that+matter+%E2%80%94+the+problem+is+the+point.;Still+learning.+Always+building." />
 </p>
 
 ---
