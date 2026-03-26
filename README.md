@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,100:1A3E6E&height=160&text=Sohan%20Kumar%20Sahu&fontSize=48&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Build+things+that+matter%2C+not+things+that+impress.;Code+is+just+the+tool.+The+problem+is+the+point.;Still+learning.+Always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=me+%2B+%E2%98%95+%3D+code;Build+things+that+matter+%E2%80%94+the+problem+is+the+point.;Still+learning.+Always+building." />
 </p>
 
 ---
@@ -78,8 +78,10 @@
 
 ### 🏆 Achievements & Highlights
 
+<div align="center">
+
 | 🏅 | Details |
-|---|---|
+|:---:|:---|
 | 🌟 CodeChef 3-Star | Rating 1602 · Global Rank **271** in Starters 226 |
 | 🚀 AI for Bharat Hackathon | **Shortlisted** (2025) |
 | 🇮🇳 Smart India Hackathon | SIH 25071 — National Level |
@@ -87,6 +89,8 @@
 | 🤖 GitHub Copilot | Certified |
 | 📚 NPTEL | Introduction to Machine Learning |
 | 🗣️ Cambridge | Linguaskill English — CEFR B2 |
+
+</div>
 
 ---
 
@@ -98,4 +102,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3E6E,100:0a0f1e&height=100&section=footer&text=Thanks%20for%20visiting%20👋&fontSize=24&fontColor=61DAFB&animation=twinkling" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:1A3E6E&height=60&text=If+you+made+it+here+%E2%80%94+let%27s+build+something+together+🚀&fontSize=18&fontColor=61DAFB&animation=twinkling" />
+</p>
