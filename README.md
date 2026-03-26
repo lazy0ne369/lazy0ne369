@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hey, I'm Sohan Kumar Sahu
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,50:1A3E6E,100:0a0f1e&height=200&text=Sohan%20Kumar%20Sahu&fontSize=52&fontColor=61DAFB&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descSize=18&descAlignY=72&descColor=8b9cb8" />
 
-### AI/ML Engineer · Full-Stack Developer · Builder of Real Things
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=curiosity+%2B+coffee+%3D+code;I+don't+build+projects.+I+solve+problems+that+bother+me.;2nd+year+%7C+KL+University+%7C+CSE+AI%2FML+%7C+CGPA+9.38;Still+learning.+Always+building." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=curiosity+%2B+coffee+%3D+code;Building+AI-powered+tools+that+actually+matter;LLMs+%C2%B7+Agents+%C2%B7+Full-Stack+%C2%B7+Real+Problems;Still+learning.+Always+building." alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohan-kumar-sahu-186428345/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohankumarsahu246540@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★_1602-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kl_2400031488)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kl2400031488)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0f1e?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/sohan-kumar-sahu-186428345/)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0f1e?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:sohankumarsahu246540@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef_3★_1602-0a0f1e?style=for-the-badge&logo=codechef&logoColor=61DAFB)](https://www.codechef.com/users/kl_2400031488)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0f1e?style=for-the-badge&logo=leetcode&logoColor=61DAFB)](https://leetcode.com/u/kl2400031488)
 
 </div>
 
