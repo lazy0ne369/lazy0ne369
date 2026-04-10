@@ -26,7 +26,7 @@ I'm a 2nd-year B.Tech CSE (AI/ML) student at KL University (CGPA: 9.38/10) who b
 - 🏆 CodeChef **3-Star** (Rating: 1602) · Global Rank **271** in Starters 226
 - 🚀 **Shortlisted** at AI for Bharat Hackathon 2025
 - 🇮🇳 Competed at **Smart India Hackathon** (SIH 25071) — National Level
-- ⚡ Fun fact: I name my agents before I build them
+- ⚡ Fun fact: I still can’t confirm my agents’ names even after building them 😅, gotta work on naming skills.
 
 ---
 
