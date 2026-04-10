@@ -22,7 +22,7 @@
 I'm a 2nd-year B.Tech CSE (AI/ML) student at KL University (CGPA: 9.38/10) who builds AI-powered tools and full-stack platforms. I got into programming because I kept running into problems that felt solvable — so I started solving them.
 
 - 🤖 Currently building **EduAgent Suite** — a multi-agent AI platform for students
-- 🌱 Learning: **RAG architectures · LangGraph · Azure · Vibe Coding**
+- 🌱 Learning: **RAG architectures · LangGraph · AWS · Vibe Coding**
 - 🏆 CodeChef **3-Star** (Rating: 1602) · Global Rank **271** in Starters 226
 - 🚀 **Shortlisted** at AI for Bharat Hackathon 2025
 - 🇮🇳 Competed at **Smart India Hackathon** (SIH 25071) — National Level
