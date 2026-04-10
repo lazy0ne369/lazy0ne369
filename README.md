@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,50:1A3E6E,100:0a0f1e&height=200&text=Sohan%20Kumar%20Sahu&fontSize=52&fontColor=61DAFB&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descSize=18&descAlignY=72&descColor=8b9cb8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=curiosity+%2B+coffee+%3D+code;I+don't+build+projects.+I+solve+problems+that+bother+me.;2nd+year+%7C+KL+University+%7C+CSE+AI%2FML+%7C+CGPA+9.38;Still+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=700&lines=I+don't+build+projects.+I+solve+problems+that+bother+me.;2nd+year+%7C+KL+University+%7C+CSE+AI%2FML+%7C+CGPA+9.38;Still+learning.+Always+building." />
 
 <br/>
 
